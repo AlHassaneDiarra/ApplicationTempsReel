@@ -45,7 +45,7 @@ Socket.io_UA1/
 
 ### 1️⃣ Cloner le projet
 ```bash
-git clone https://github.com/AlHassaneDiarra/jeuquestionnaire-
+git clone https://github.com/AlHassaneDiarra/ApplicationTempsReel
 cd Socket.io_UA1
 2️⃣ Installer les dépendances
 Backend
